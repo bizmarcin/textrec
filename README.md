@@ -2,6 +2,7 @@
 In this app You can see in which way we can made simple OCR application
 
 Operating system Windows 10 /64
+
 Python 3.6.5 :: Anaconda, Inc.
 
 Please fallow steps bellow:
